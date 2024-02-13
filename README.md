@@ -13,7 +13,7 @@ Preuves
 : 
 
 ![doctorat1](/images/doctorat.png)     ![doctorat2](/images/doctorat.png)    ![doctorat3](/images/doctorat.png)  
---Mes Compétences--
+__Mes Compétences__
 
 
 
