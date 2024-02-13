@@ -3,7 +3,11 @@
 
 ## à propos de moi : 
 
-![Texte alternatif](/images/aurelien.jpg)      Je
+Je m'appelle Nicolas, 
+
+![Texte alternatif](/images/aurelien.jpg)      
+
+
 
 
 
