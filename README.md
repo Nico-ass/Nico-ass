@@ -5,9 +5,11 @@
 
 Je m'appelle Nicolas, 
 
-![Texte alternatif](/images/aurelien.jpg)      
+![aurelien](/images/aurelien.jpg)      
 
 J'ai de multiples doctorats 
+Preuve : 
+![doctorat](/images/doctorat.png)    
 
 
 
