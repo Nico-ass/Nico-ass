@@ -3,7 +3,13 @@
 
 ## à propos de moi : 
 
-![Texte alternatif](/images/aurelien.jpg)
+Je m'appelle Nicolas, 
+
+![Texte alternatif](/images/aurelien.jpg)      
+
+J'ai de multiples doctorats 
+
+
 
 
 
