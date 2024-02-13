@@ -3,7 +3,7 @@
 
 ## à propos de moi : 
 
-![Texte alternatif](/images/aurelien.jpg)
+![Texte alternatif](/images/aurelien.jpg)      Je
 
 
 
