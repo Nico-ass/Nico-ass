@@ -33,14 +33,10 @@
 
  - [Orchard Project](https://github.com/Nico-ass/orchard)
  
-
-<p></p>
 <h1 align="left">Connect with me:</h3>
 
-**Linkedin** <p align="left">
-  
-<a href="https://linkedin.com/in/www.linkedin.com/in/nicolas-trenchs-613697257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-trenchs-613697257" height="32" width="32" /></a>
+**Linkedin :** <a href="https://linkedin.com/in/www.linkedin.com/in/nicolas-trenchs-613697257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-trenchs-613697257" height="32" width="32" /></a>
 
-</p>
+
 
     
