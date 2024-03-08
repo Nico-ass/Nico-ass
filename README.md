@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate of development</h3>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
