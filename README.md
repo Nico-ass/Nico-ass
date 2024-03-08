@@ -28,7 +28,7 @@
 
  <h3>My Projects :</h3>
 
- [Orchard Project](https://github.com/Nico-ass/orchard)
+ - [Orchard Project](https://github.com/Nico-ass/orchard)
  
 
 <p></p>
