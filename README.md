@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
+ 🔭 I’m currently working on **Ray Tracing projet**
 
+- 🌱 I’m currently learning **nothing**
 
 <h3 align="center">Languages and Tools:</h3>
 
