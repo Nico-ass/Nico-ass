@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate of development</h3>
 
+[![Nico-Ass's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nico-Ass)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages :</h4>
