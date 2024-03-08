@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages :</h4>
 <p align="left">
