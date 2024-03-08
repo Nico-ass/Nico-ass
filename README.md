@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 <h3 align="center">A passionate of development</h3>
 
-- 🔭 I’m currently working on **Ray Tracing projet**
-
-- 🌱 I’m currently learning **Java Swing**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Programming Languages :</h4>
@@ -29,7 +25,6 @@
  </p>
 
 <p>\n</p>
- - 📫 How to reach me **nicolas.trenchs@etu.unilim.fr**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/nicolas-trenchs-613697257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-trenchs-613697257" height="30" width="40" /></a>
