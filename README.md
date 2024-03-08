@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
 
+**Who am I : **
+  
+  - ME
   - 🔭 I’m currently working on **Ray Tracing project**
   - 🌱 I’m currently learning **nothing**
 
-<h3 align="center">Languages and Tools:</h3>
+
+
+<h3 align="center">My Skills</h3>
 
 <h4 align="left">Programming Languages :</h4>
 <p align="left">
