@@ -15,7 +15,7 @@
     <li>Admirer of <strong>Laurent Faye</strong> ❤️</li>
     <li>Specialized in <strong>prompt engineering</strong> 🤖</li>
     <li>🖼️ Exceptional Photo Montager</li>
-    <li>✍️ Screenwriter/Illustrator</li>
+    <li>✍️ Writer/Illustrator</li>
 </ul>
 
 <h2 align="left">🌟 My Passion</h2>
