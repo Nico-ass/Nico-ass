@@ -26,6 +26,14 @@
   <img src="images/laurent faye.jpg" alt="Laurent Faye" width="200" style="border-radius: 50%;" />
 </p>
 
+<h2 align="left">🎨 My Hobbies</h2>
+<ul>
+  <li>👀 Observing Mr. Faye in his natural habitat at home</li>
+  <li>👨‍👧‍👦 Observing Mr. Faye spending quality time with his children</li>
+  <li>🚿 Observing Mr. Faye during his shower routine</li>
+</ul>
+
+
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
   <li>🔭 Currently focused on a <strong>Ray Tracing Project</strong>, exploring advanced graphics rendering techniques.</li>
