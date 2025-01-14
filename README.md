@@ -36,8 +36,8 @@
 
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
-  <li>🔭 Currently focused on a <strong>Ray Tracing Project</strong>, exploring advanced graphics rendering techniques.</li>
-  <li>🌱 Continuously learning and expanding my knowledge across different fields of tech!</li>
+  <li>📊 Developing a <strong>Data Visualization Application for Legrand</strong> (project not shareable).</li>
+  <li>🎨 Creating a <strong>Poster of Laurent Faye and His 1000 Identities</strong>.</li>
 </ul>
 
 <h2 align="left">💻 My Tech Stack</h2>
