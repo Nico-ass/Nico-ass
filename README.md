@@ -14,8 +14,8 @@
     <li>⌨️ Apprentice Software Developer at <strong>Dassault Systèmes</strong> </li>
     <li>❤️ Admirer of <strong>Laurent Faye</strong></li>
     <li>🤖 Specialized in <strong>prompt engineering</strong> </li>
-    <li>🖼️ Exceptional Photo Montager</li>
-    <li>✍️ Writer/Illustrator</li>
+    <li>🖼️ Exceptional <strong>photo montager</strong></li>
+    <li>✍️ Excellent <strong>writer</strong> and <strong>illustrator</strong></li>
 </ul>
 
 <h2 align="left">🌟 My Passion</h2>
