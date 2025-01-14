@@ -10,7 +10,13 @@
 </table>
 
 
-<p>👨‍💻 Passionate about coding, optimization, and creating efficient solutions!</p>
+<h2 align="left">🌟 My Passion</h2>
+<p align="left">
+  I have a deep admiration for Laurent Faye, a person who embodies a rare combination of charisma, charm, and grace. He is truly one of a kind, radiating a magnetic presence that captivates everyone around him. His unique allure and captivating personality make him a fascinating figure in my life.
+</p>
+<p align="center">
+  <img src="images/laurent faye.jpg" alt="Laurent Faye" width="200" style="border-radius: 50%;" />
+</p>
 
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
