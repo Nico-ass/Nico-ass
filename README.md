@@ -11,9 +11,9 @@
 
 <h2 align="left">👨‍💻 About Me</h2>
 <ul>
-    <li>Apprentice Software Developer at <strong>Dassault Systèmes</strong> ⌨️</li>
-    <li>Admirer of <strong>Laurent Faye</strong> ❤️</li>
-    <li>Specialized in <strong>prompt engineering</strong> 🤖</li>
+    <li>⌨️ Apprentice Software Developer at <strong>Dassault Systèmes</strong> </li>
+    <li>❤️ Admirer of <strong>Laurent Faye</strong></li>
+    <li>🤖 Specialized in <strong>prompt engineering</strong> </li>
     <li>🖼️ Exceptional Photo Montager</li>
     <li>✍️ Writer/Illustrator</li>
 </ul>
