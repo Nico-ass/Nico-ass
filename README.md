@@ -1,4 +1,15 @@
-<h1 align="left">Hey there! 👋 I'm Nicolas</h1>
+<table>
+  <tr>
+    <td>
+      <h1 align="left">Hey there! 👋 I'm Nicolas</h1>
+    </td>
+    <td>
+      <img src="images/moi.jpg" alt="Photo of moi" width="80" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
+
+
 <p>👨‍💻 Passionate about coding, optimization, and creating efficient solutions!</p>
 
 <h2 align="left">🚀 What I'm Working On</h2>
