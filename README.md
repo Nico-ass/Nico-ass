@@ -9,8 +9,30 @@
   </tr>
 </table>
 
+<h2 align="left">👨‍💻 About Me</h2>
+<ul>
+    <li>⌨️ Apprentice Software Developer at <strong>Dassault Systèmes</strong> </li>
+    <li>❤️ Admirer of <strong>Laurent Faye</strong></li>
+    <li>🤖 Specialized in <strong>prompt engineering</strong> </li>
+    <li>🖼️ Exceptional <strong>photo montager</strong></li>
+    <li>✍️ Excellent <strong>writer</strong> and <strong>illustrator</strong></li>
+</ul>
 
-<p>👨‍💻 Passionate about coding, optimization, and creating efficient solutions!</p>
+<h2 align="left">🌟 My Passion</h2>
+<p align="left">
+  I have a deep admiration for Laurent Faye, a person who embodies a rare combination of charisma, charm, and grace. He is truly one of a kind, radiating a magnetic presence that captivates everyone around him. His unique allure and captivating personality make him a fascinating figure in my life.
+</p>
+<p align="center">
+  <img src="images/laurent faye.jpg" alt="Laurent Faye" width="200" style="border-radius: 50%;" />
+</p>
+
+<h2 align="left">🎨 My Hobbies</h2>
+<ul>
+  <li>👀 Observing Mr. Faye in his natural habitat at home</li>
+  <li>👨‍👧‍👦 Observing Mr. Faye spending quality time with his children</li>
+  <li>🚿 Observing Mr. Faye during his shower routine</li>
+</ul>
+
 
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
