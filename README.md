@@ -38,6 +38,7 @@
 <ul>
   <li>📊 Developing a <strong>Data Visualization Application for Legrand</strong> (<strong>failure</strong>).</li>
   <li>🎨 Creating a <strong>Poster of Laurent Faye and His 1000 Identities</strong>.</li>
+  <li>✍️ Writing my first comic book, <strong>Les aventures de Louis</strong>.</li>
 </ul>
 
 <h2 align="left">💻 My Tech Stack</h2>
@@ -87,9 +88,11 @@
 <h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
-    <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingroton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
-
+  <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingoton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
+  <li><a href="https://github.com/Nico-ass/Secret" target="_blank"><strong>Raytracing Image Generator</strong></a> – A project focused on generating <strong>realistic images using raytracing techniques</strong>.</li>
+  <li><strong>Legrand Data Visualization</strong> – A private project developed for <strong>Jessi Croquin</strong>, focusing on <strong>data visualization solutions</strong> (non-shareable).</li>
 </ul>
+
 
 
 <h2 align="left">📫 How to Reach Me</h2>
