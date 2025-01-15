@@ -88,7 +88,7 @@
 <h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
-  <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingoton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
+  <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingroton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
   <li><a href="https://github.com/Nico-ass/Secret" target="_blank"><strong>Raytracing Image Generator</strong></a> – A project focused on generating <strong>realistic images using raytracing techniques</strong>.</li>
   <li><strong>Legrand Data Visualization</strong> – A private project developed for <strong>Jessi Croquin</strong>, focusing on <strong>data visualization solutions</strong> (non-shareable).</li>
 </ul>
@@ -97,5 +97,18 @@
 
 <h2 align="left">📫 How to Reach Me</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/nicolas-trenchs-613697257" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /></a>
+  🔗 <a href="https://linkedin.com/in/nicolas-trenchs-613697257" target="_blank">LinkedIn</a>  
 </p>
+<p align="left">
+  🐦 <a href="https://x.com/ZemmourEric="_blank">Twitter</a>
+</p>
+<p align="left">
+  📧 <a href="nicolas.trenchs@etu.unilim.fr" target="_blank">Email</a>
+</p>
+<p align="left">
+  🌐 <a href="I don't have one" target="_blank">Website</a> (I don't have one)
+</p>
+<p align="left">
+  🐙 <a href="https://github.com/Nico-ass" target="_blank">GitHub</a>
+</p>
+
