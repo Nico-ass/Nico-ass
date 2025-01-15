@@ -100,7 +100,7 @@
   🔗 <a href="https://linkedin.com/in/nicolas-trenchs-613697257" target="_blank">LinkedIn</a>  
 </p>
 <p align="left">
-  🐦 <a href="https://x.com/ZemmourEric="_blank">Twitter</a>
+  🐦 <a href="https://x.com/ZemmourEric"_blank">Twitter</a>
 </p>
 <p align="left">
   📧 <a href="nicolas.trenchs@etu.unilim.fr" target="_blank">Email</a>
