@@ -36,7 +36,7 @@
 
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
-  <li>📊 Developing a <strong>Data Visualization Application for Legrand</strong> (project not shareable).</li>
+  <li>📊 Developing a <strong>Data Visualization Application for Legrand</strong> (<strong>failure</strong>).</li>
   <li>🎨 Creating a <strong>Poster of Laurent Faye and His 1000 Identities</strong>.</li>
 </ul>
 
@@ -84,7 +84,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
-<h2 align="left">Laurent Faye Poster</h2>
+<h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
 </ul>
