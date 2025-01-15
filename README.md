@@ -16,7 +16,9 @@
     <li>🤖 Specialized in <strong>prompt engineering</strong> </li>
     <li>🖼️ Exceptional <strong>photo montager</strong></li>
     <li>✍️ Excellent <strong>writer</strong> and <strong>illustrator</strong></li>
+    <li>🧩 Moderately autistic (according to IDRLabs)</li>
 </ul>
+
 
 <h2 align="left">🌟 My Passion</h2>
 <p align="left">
