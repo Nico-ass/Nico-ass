@@ -84,6 +84,16 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Other Skills :</h3>
+<p align="left">
+  <a href="https://commons.wikimedia.org/wiki/File:Icone_natation.svg" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Icone_natation.svg" alt="Natation" width="40" height="40"/>
+  </a>
+  <a href="https://commons.wikimedia.org/wiki/File:Icone_velo.svg" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Icone_velo.svg" alt="Vélo" width="40" height="40"/>
+  </a>
+</p>
+
 <h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
