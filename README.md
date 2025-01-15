@@ -87,7 +87,8 @@
 <h2 align="left">Projects</h2>
 <ul>
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
-  <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingroton</strong></a> – A collaborative project to which I contributed, focusing on <strong>innovative solutions for table-tennis tournaments</strong>.</li>
+    <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingroton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
+
 </ul>
 
 
