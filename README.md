@@ -52,9 +52,9 @@
 
 <h2 align="left">🚀 What I'm Working On</h2>
 <ul>
-  <li>📊 Developing a <strong>Data Visualization Application for Legrand</strong> (<strong>failure</strong>).</li>
   <li>🎨 Creating a <strong>Poster of Laurent Faye and His 1000 Identities</strong>.</li>
   <li>✍️ Writing my first comic book, <strong>Les aventures de Louis</strong>.</li>
+  <li>📖 Writing the second volume of <strong>Entre ses bras</strong>, continuing the story.</li>
 </ul>
 
 <h2 align="left">💻 My Tech Stack</h2>
