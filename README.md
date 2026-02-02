@@ -106,7 +106,12 @@
   <li><a href="https://github.com/Nico-ass/LaurentFaye.git" target="_blank"><strong>Laurent Faye Poster Project</strong></a> – A project illustrating <strong>Laurent Faye and His 1000 Identities</strong>.</li>
   <li><a href="https://github.com/LoganFerreira/Mingoton" target="_blank"><strong>Mingroton</strong></a> – A collaborative project to which I contributed, inspired by <strong>Marmiton</strong> for recipe sharing and discovery.</li>
   <li><a href="https://github.com/Nico-ass/Secret" target="_blank"><strong>Raytracing Image Generator</strong></a> – A project focused on generating <strong>realistic images using raytracing techniques</strong>.</li>
-  <li><strong>Legrand Data Visualization</strong> – A private project developed for <strong>Jessi Croquin</strong>, focusing on <strong>data visualization solutions</strong> (non-shareable).</li>
+  <li>
+  <a href="https://github.com/Nico-ass/Mais-o--trouve-t-il-toute-cette--nergie--.git" target="_blank">
+    <strong>Mais où trouve-t-il toute cette énergie ?</strong>
+  </a> – My very first book, exploring inspiration, energy, and fascination.
+</li>
+
 </ul>
 
 
