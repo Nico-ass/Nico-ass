@@ -27,6 +27,19 @@
 <p align="center">
   <img src="images/laurent faye.jpg" alt="Laurent Faye" width="200" style="border-radius: 50%;" />
 </p>
+<p align="left">
+  Cette admiration m’a même conduit à écrire mon <strong>premier livre</strong>, intitulé 
+  <em>« Mais où trouve-t-il toute cette énergie ? »</em>, une œuvre inspirée par l’aura inépuisable,
+  la vitalité hors du commun et la présence fascinante de Laurent Faye.
+</p>
+
+<p align="center">
+  <img src="images/mais-ou-trouve-t-il-toute-cette-energie.jpg" 
+       alt="Couverture du livre Mais où trouve-t-il toute cette énergie ?" 
+       width="220" 
+       style="border-radius: 10%;" />
+</p>
+
 
 <h2 align="left">🎨 My Hobbies</h2>
 <ul>
