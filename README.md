@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="images/mais-ou-trouve-t-il-toute-cette-energie.jpg" 
+  <img src="images/mais-ou-trouve-t-il-toute-cette-energie.png" 
        alt="Couverture du livre Mais où trouve-t-il toute cette énergie ?" 
        width="220" 
        style="border-radius: 10%;" />
