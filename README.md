@@ -15,7 +15,7 @@
     <li>❤️ Admirer of <strong>Laurent Faye</strong></li>
     <li>🤖 Specialized in <strong>prompt engineering</strong> </li>
     <li>🖼️ Exceptional <strong>photo montager</strong></li>
-    <li>✍️ Excellent <strong>writer</strong> and <strong>illustrator</strong></li>
+    <li>✍️ Excellent <strong>writer</strong> , <strong>author</strong> and <strong>illustrator</strong></li>
     <li>🧩 Moderately <strong>autistic</strong> (according to IDRLabs)</li>
 </ul>
 
