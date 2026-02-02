@@ -28,10 +28,11 @@
   <img src="images/laurent faye.jpg" alt="Laurent Faye" width="200" style="border-radius: 50%;" />
 </p>
 <p align="left">
-  Cette admiration m’a même conduit à écrire mon <strong>premier livre</strong>, intitulé 
-  <em>« Mais où trouve-t-il toute cette énergie ? »</em>, une œuvre inspirée par l’aura inépuisable,
-  la vitalité hors du commun et la présence fascinante de Laurent Faye.
+  This admiration even led me to write my <strong>first book</strong>, entitled
+  <em>“Mais où trouve-t-il toute cette énergie ?”</em>, a work inspired by the inexhaustible aura,
+  extraordinary vitality, and fascinating presence of Laurent Faye.
 </p>
+
 
 <p align="center">
   <img src="images/mais-ou-trouve-t-il-toute-cette-energie.png" 
