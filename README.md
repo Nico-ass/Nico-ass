@@ -54,7 +54,7 @@
 <ul>
   <li>🎨 Creating a <strong>Poster of Laurent Faye and His 1000 Identities</strong>.</li>
   <li>✍️ Writing my first comic book, <strong>Les aventures de Louis</strong>.</li>
-  <li>📖 Writing the second volume of <strong>Entre ses bras</strong>, continuing the story.</li>
+  <li>📖 Writing the second volume of <strong>Mais où trouve-t-il toute cette énergie ?</strong>, continuing the story.</li>
 </ul>
 
 <h2 align="left">💻 My Tech Stack</h2>
