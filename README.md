@@ -127,7 +127,7 @@
   📧 <a href="nicolas.trenchs@etu.unilim.fr" target="_blank">Email</a>
 </p>
 <p align="left">
-  🌐 <a href="https://www.nicolas-trenchs.fun" target="_blank">Website</a> (I don't have one)
+  🌐 <a href="https://www.nicolas-trenchs.fun" target="_blank">Website</a>
 </p>
 <p align="left">
   🐙 <a href="https://github.com/Nico-ass" target="_blank">GitHub</a>
